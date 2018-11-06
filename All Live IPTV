@@ -104,8 +104,6 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/43.ts
 #EXTINF:-1,|AR|_Qatar_TV_HD
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/27.ts
 
-#EXTM3U
-
 #EXTINF:-1,AR-Aljazeera
 http://aaa000.xyz:8000/forinone/f5vr145vr41v/2190
 #EXTINF:-1,AR-AlArabiya
@@ -838,24 +836,6 @@ http://aaa000.xyz:8000/forinone/f5vr145vr41v/2235
 #EXTINF:-1,AR-Al-Magharibia-2
 http://aaa000.xyz:8000/forinone/f5vr145vr41v/7232
 
-#EXTINF:-1,Tunisia NAT 1
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2752.ts
-#EXTINF:-1,Tunisia NAT 2
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2751.ts
-#EXTINF:-1,Elhiwar ettounsi TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2750.ts
-#EXTINF:-1,Ettounisia-tv
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11481.ts
-#EXTINF:-1,Attessia TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2749.ts
-#EXTINF:-1,Nessma
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2748.ts
-#EXTINF:-1,Hannibal
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2747.ts
-#EXTINF:-1,Tunisia live events
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11663.ts
-#EXTINF:-1,M Tunisia
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2743.ts
 #EXTINF:-1,Telvza TV
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2746.ts
 #EXTINF:-1,Sahel tv
@@ -892,118 +872,7 @@ http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8614.ts
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8613.ts
 #EXTINF:-1,S7T Music HD
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9359.ts
-#EXTINF:-1,--------TN TNT--------
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5736.ts
-#EXTINF:-1,Tunisia Nat 1 TNT
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5724.ts
-#EXTINF:-1,Tunisia Nat 2 TNT
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5725.ts
-#EXTINF:-1,Elhiwar Ettounsi TNT
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5726.ts
-#EXTINF:-1,Nessma TNT
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5728.ts
-#EXTINF:-1,Hannibal TNT
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5729.ts
-#EXTINF:-1,Attessia TNT
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5727.ts
-#EXTINF:-1,Telvza TNT
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5733.ts
-#EXTINF:-1,Al Janoubia TNT
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5730.ts
-#EXTINF:-1,M Tunisia TNT
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5734.ts
-#EXTINF:-1,Tunisna TNT
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5731.ts
-#EXTINF:-1,Al Insen TNT
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5735.ts
-#EXTINF:-1,Zitouna TNT
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5732.ts
-#EXTINF:-1,--------ALGERIE--------
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2782.ts
-#EXTINF:-1,Algeria tv
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2781.ts
-#EXTINF:-1,Algerie 3
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8619.ts
-#EXTINF:-1,Algerie 4
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8612.ts
-#EXTINF:-1,Algerie 5
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8608.ts
-#EXTINF:-1,Echorouk TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2775.ts
-#EXTINF:-1,Numidia News
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9782.ts
-#EXTINF:-1,Echorouk News
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2774.ts
-#EXTINF:-1,Bahia TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8599.ts
-#EXTINF:-1,Dzair News
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2768.ts
-#EXTINF:-1,El Bilad TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2765.ts
-#EXTINF:-1,Al Heddaf tv
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12242.ts
-#EXTINF:-1,El Djazairia TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2766.ts
-#EXTINF:-1,Ennahar TV DZ
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2771.ts
-#EXTINF:-1,ENTV Algerie
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2780.ts
-#EXTINF:-1,Berbere TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2759.ts
-#EXTINF:-1,Berbere Jeunesse
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8605.ts
-#EXTINF:-1,Berbere Music
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9253.ts
-#EXTINF:-1,El Fadjr TV DZ
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2763.ts
-#EXTINF:-1,--------MAROC--------
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2793.ts
-#EXTINF:-1,Tele Maroc
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11402.ts
-#EXTINF:-1,2M Maroc
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2791.ts
-#EXTINF:-1,Al Aoula Inter
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2792.ts
-#EXTINF:-1,Al Maghribia
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9316.ts
-#EXTINF:-1,Al Magharibia News
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2758.ts
-#EXTINF:-1,Al Magharibia Two
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2757.ts
-#EXTINF:-1,Maroc Tamazight
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2786.ts
-#EXTINF:-1,Medi1 TV HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2785.ts
-#EXTINF:-1,Arrabiaa
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2789.ts
-#EXTINF:-1,Assadissa
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2787.ts
-#EXTINF:-1,Aflam7
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/7977.ts
-#EXTINF:-1,Canal Atlas
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11149.ts
-#EXTINF:-1,GM Movies HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8620.ts
-#EXTINF:-1,GM Comedia TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8597.ts
-#EXTINF:-1,GM Alwan
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8611.ts
-#EXTINF:-1,GM Muzicana
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8606.ts
-#EXTINF:-1,GM Chaabi TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8601.ts
-#EXTINF:-1,GM Music TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8602.ts
-#EXTINF:-1,GM OFIVE
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9254.ts
-#EXTINF:-1,GM Bizim TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8617.ts
-#EXTINF:-1,CHADA
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4405.ts
-#EXTINF:-1,Beur TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2764.ts
-#EXTINF:-1,Arryadia Live HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2790.ts
+
 #EXTINF:-1,Al Jazeera
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2812.ts
 #EXTINF:-1,Al Arabiya
@@ -1042,24 +911,7 @@ http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2795.ts
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2805.ts
 #EXTINF:-1,Al Jazeera Mubasher
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2807.ts
-#EXTINF:-1,--------LIBYAN--------
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2829.ts
-#EXTINF:-1,Libya TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4312.ts
-#EXTINF:-1,Libya 24
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4417.ts
-#EXTINF:-1,Aljamahiriya TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9287.ts
-#EXTINF:-1,Libya Alhadath TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9251.ts
-#EXTINF:-1,Libya Future
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9268.ts
-#EXTINF:-1,Libya el watan
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2827.ts
-#EXTINF:-1,Libya Al Ahrar TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2828.ts
-#EXTINF:-1,Libya's Channel
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4418.ts
+
 #EXTINF:-1,--------DOCUMENTAIRE--------
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2835.ts
 #EXTINF:-1,Nat Geo Abu Dhabi
@@ -1068,20 +920,7 @@ http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2834.ts
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2832.ts
 #EXTINF:-1,Quest Arabiya
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2833.ts
-#EXTINF:-1,--------CUISINE--------
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8581.ts
-#EXTINF:-1,Fatafeat
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2928.ts
-#EXTINF:-1,Samira TV.
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8582.ts
-#EXTINF:-1,CBC Sofra
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2926.ts
-#EXTINF:-1,CBC BENNA
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9372.ts
-#EXTINF:-1,beIN Gourmet HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5199.ts
-#EXTINF:-1,Panorama Food
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2901.ts
+
 #EXTINF:-1,--------FILM&SERIES--------
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3001.ts
 #EXTINF:-1,MBC
@@ -1401,76 +1240,7 @@ http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12429.ts
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12412.ts
 #EXTINF:-1,NOUR EL SHAM
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3053.ts
-#EXTINF:-1,----------Jordan.TV----------
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12405.ts
-#EXTINF:-1,Jordan HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3122.ts
-#EXTINF:-1,Noor Jordan
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4330.ts
-#EXTINF:-1,A1 Jordan
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3060.ts
-#EXTINF:-1,JORDAN AMEN
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12425.ts
-#EXTINF:-1,JORDAN DERETNA
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12426.ts
-#EXTINF:-1,JORDAN SAMA
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12427.ts
-#EXTINF:-1,ROYA HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11166.ts
-#EXTINF:-1,Zweina Baladna
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9310.ts
-#EXTINF:-1,KAIFA TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12411.ts
-#EXTINF:-1,Jordan Sport
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3020.ts
-#EXTINF:-1,----------Palestine.TV----------
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12407.ts
-#EXTINF:-1,Palestine Today
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3052.ts
-#EXTINF:-1,Palestine live
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3082.ts
-#EXTINF:-1,PALESTINE NEWS
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12428.ts
-#EXTINF:-1,MUSAWA
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12408.ts
-#EXTINF:-1,MAAN
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12410.ts
-#EXTINF:-1,HONA ALQUDS
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12409.ts
-#EXTINF:-1,Al Quds TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4246.ts
-#EXTINF:-1,----------Iraq.TV----------
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12406.ts
-#EXTINF:-1,Iraqi EDU
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2844.ts
-#EXTINF:-1,Iraqia TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4296.ts
-#EXTINF:-1,Baghdad TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4264.ts
-#EXTINF:-1,AL Hurra Iraq
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4383.ts
-#EXTINF:-1,Hona Baghdad
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2850.ts
-#EXTINF:-1,Al Fallujah TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4381.ts
-#EXTINF:-1,Al Mawsleya
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4386.ts
-#EXTINF:-1,Al Sumaria TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4390.ts
-#EXTINF:-1,AL Anbar
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4391.ts
-#EXTINF:-1,Al Rafiden
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4388.ts
-#EXTINF:-1,Karbala TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4411.ts
-#EXTINF:-1,Al Ghadeer
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9233.ts
-#EXTINF:-1,Alitejah TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3036.ts
-#EXTINF:-1,Alforat TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9288.ts
-#EXTINF:-1,Al Rasheed
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4389.ts
+
 #EXTINF:-1,--------DIVERS--------
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3088.ts
 #EXTINF:-1,Al Hiwar TV
@@ -1509,36 +1279,6 @@ http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4376.ts
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4225.ts
 #EXTINF:-1,Al Maaref
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4238.ts
-#EXTINF:-1,--------MUSIC--------
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3099.ts
-#EXTINF:-1,Rotana Clip
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2977.ts
-#EXTINF:-1,Rotana Khalijiah
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2973.ts
-#EXTINF:-1,Rotana Music HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2976.ts
-#EXTINF:-1,Rotana Music
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2975.ts
-#EXTINF:-1,Rotana Khaliji HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2974.ts
-#EXTINF:-1,Mazzika
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3096.ts
-#EXTINF:-1,Aghani Aghani TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3093.ts
-#EXTINF:-1,Afrah TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3059.ts
-#EXTINF:-1,Hawacom
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3023.ts
-#EXTINF:-1,Mazazik Tv
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/4320.ts
-#EXTINF:-1,Music Alhanen
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3092.ts
-#EXTINF:-1,FUNoon
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9231.ts
-#EXTINF:-1,TATT7
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9210.ts
-#EXTINF:-1,WANASAH
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/2861.ts
 
 #EXTINF:-1,--------SPORT--------
 http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3147.ts
@@ -2581,16 +2321,7 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/138.ts
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/126.ts
 #EXTINF:-1,|AR|_BAHRAIN_TV
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/137.ts
-#EXTINF:-1,|AR|_TUNISIE_NAT1_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/57.ts
-#EXTINF:-1,|AR|_TUNISIE_NAT2_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/58.ts
-#EXTINF:-1,|AR|_Elhiwar_Ettounsi
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/91.ts
-#EXTINF:-1,|AR|_ZITOUNA
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/60.ts
-#EXTINF:-1,|AR|_Aouala
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/55.ts
+
 #EXTINF:-1,|AR|_FRANCE_24_AR
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/20.ts
 #EXTINF:-1,|AR|_Sky_News_Arabic
@@ -2640,36 +2371,6 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/43.ts
 #EXTINF:-1,|AR|_Qatar_TV_HD
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/27.ts
 
-#EXTINF:-1,Tunisia NAT 1
-http://rb-group-server.com:25461/yassine/yassine/2752
-#EXTINF:-1,Tunisia NAT 2
-http://rb-group-server.com:25461/yassine/yassine/2751
-#EXTINF:-1,Elhiwar ettounsi TV
-http://rb-group-server.com:25461/yassine/yassine/2750
-#EXTINF:-1,Hannibal
-http://rb-group-server.com:25461/yassine/yassine/2747
-#EXTINF:-1,Nessma
-http://rb-group-server.com:25461/yassine/yassine/2748
-#EXTINF:-1,Telvza TV
-http://rb-group-server.com:25461/yassine/yassine/2746
-#EXTINF:-1,Attessia TV
-http://rb-group-server.com:25461/yassine/yassine/2749
-#EXTINF:-1,Sahel tv
-http://rb-group-server.com:25461/yassine/yassine/9084
-#EXTINF:-1,Carthage TV
-http://rb-group-server.com:25461/yassine/yassine/4375
-#EXTINF:-1,Tunisna
-http://rb-group-server.com:25461/yassine/yassine/2744
-#EXTINF:-1,M Tunisia
-http://rb-group-server.com:25461/yassine/yassine/2743
-#EXTINF:-1,Al Insen TV
-http://rb-group-server.com:25461/yassine/yassine/2740
-#EXTINF:-1,Al Janoubia Tv
-http://rb-group-server.com:25461/yassine/yassine/2745
-#EXTINF:-1,Al Mustakillah
-http://rb-group-server.com:25461/yassine/yassine/2742
-#EXTINF:-1,Zitouna TV
-http://rb-group-server.com:25461/yassine/yassine/2741
 #EXTINF:-1,S7T Movies HD
 http://rb-group-server.com:25461/yassine/yassine/8616
 #EXTINF:-1,S7T Aflam HD
@@ -2690,110 +2391,7 @@ http://rb-group-server.com:25461/yassine/yassine/8614
 http://rb-group-server.com:25461/yassine/yassine/8613
 #EXTINF:-1,S7T Music HD
 http://rb-group-server.com:25461/yassine/yassine/9359
-#EXTINF:-1,--------TN TNT--------
-http://rb-group-server.com:25461/yassine/yassine/5736
-#EXTINF:-1,Tunisia Nat 1 TNT
-http://rb-group-server.com:25461/yassine/yassine/5724
-#EXTINF:-1,Tunisia Nat 2 TNT
-http://rb-group-server.com:25461/yassine/yassine/5725
-#EXTINF:-1,Elhiwar Ettounsi TNT
-http://rb-group-server.com:25461/yassine/yassine/5726
-#EXTINF:-1,Nessma TNT
-http://rb-group-server.com:25461/yassine/yassine/5728
-#EXTINF:-1,Hannibal TNT
-http://rb-group-server.com:25461/yassine/yassine/5729
-#EXTINF:-1,Attessia TNT
-http://rb-group-server.com:25461/yassine/yassine/5727
-#EXTINF:-1,Telvza TNT
-http://rb-group-server.com:25461/yassine/yassine/5733
-#EXTINF:-1,Al Janoubia TNT
-http://rb-group-server.com:25461/yassine/yassine/5730
-#EXTINF:-1,M Tunisia TNT
-http://rb-group-server.com:25461/yassine/yassine/5734
-#EXTINF:-1,Tunisna TNT
-http://rb-group-server.com:25461/yassine/yassine/5731
-#EXTINF:-1,Al Insen TNT
-http://rb-group-server.com:25461/yassine/yassine/5735
-#EXTINF:-1,Zitouna TNT
-http://rb-group-server.com:25461/yassine/yassine/5732
-#EXTINF:-1,--------ALGERIE--------
-http://rb-group-server.com:25461/yassine/yassine/2782
-#EXTINF:-1,Algeria tv
-http://rb-group-server.com:25461/yassine/yassine/2781
-#EXTINF:-1,Algerie 3
-http://rb-group-server.com:25461/yassine/yassine/8619
-#EXTINF:-1,Algerie 4
-http://rb-group-server.com:25461/yassine/yassine/8612
-#EXTINF:-1,Algerie 5
-http://rb-group-server.com:25461/yassine/yassine/8608
-#EXTINF:-1,Echorouk TV
-http://rb-group-server.com:25461/yassine/yassine/2775
-#EXTINF:-1,Echorouk News
-http://rb-group-server.com:25461/yassine/yassine/2774
-#EXTINF:-1,Bahia TV
-http://rb-group-server.com:25461/yassine/yassine/8599
-#EXTINF:-1,Dzair News
-http://rb-group-server.com:25461/yassine/yassine/2768
-#EXTINF:-1,El Bilad TV
-http://rb-group-server.com:25461/yassine/yassine/2765
-#EXTINF:-1,El Djazairia TV
-http://rb-group-server.com:25461/yassine/yassine/2766
-#EXTINF:-1,Ennahar TV DZ
-http://rb-group-server.com:25461/yassine/yassine/2771
-#EXTINF:-1,ENTV Algerie
-http://rb-group-server.com:25461/yassine/yassine/2780
-#EXTINF:-1,Berbere TV
-http://rb-group-server.com:25461/yassine/yassine/2759
-#EXTINF:-1,Berbere Music
-http://rb-group-server.com:25461/yassine/yassine/9253
-#EXTINF:-1,Berbere Jeunesse
-http://rb-group-server.com:25461/yassine/yassine/8605
-#EXTINF:-1,El Fadjr TV DZ
-http://rb-group-server.com:25461/yassine/yassine/2763
-#EXTINF:-1,--------MAROC--------
-http://rb-group-server.com:25461/yassine/yassine/2793
-#EXTINF:-1,2M Maroc
-http://rb-group-server.com:25461/yassine/yassine/2791
-#EXTINF:-1,Medi1 TV HD
-http://rb-group-server.com:25461/yassine/yassine/2785
-#EXTINF:-1,Al Aoula Inter
-http://rb-group-server.com:25461/yassine/yassine/2792
-#EXTINF:-1,Al Maghribia
-http://rb-group-server.com:25461/yassine/yassine/9316
-#EXTINF:-1,Al Magharibia News
-http://rb-group-server.com:25461/yassine/yassine/2758
-#EXTINF:-1,Al Magharibia Two
-http://rb-group-server.com:25461/yassine/yassine/2757
-#EXTINF:-1,Maroc Tamazight
-http://rb-group-server.com:25461/yassine/yassine/2786
-#EXTINF:-1,Arrabiaa
-http://rb-group-server.com:25461/yassine/yassine/2789
-#EXTINF:-1,Assadissa
-http://rb-group-server.com:25461/yassine/yassine/2787
-#EXTINF:-1,Aflam7
-http://rb-group-server.com:25461/yassine/yassine/7977
-#EXTINF:-1,CHADA
-http://rb-group-server.com:25461/yassine/yassine/4405
-#EXTINF:-1,Beur TV
-http://rb-group-server.com:25461/yassine/yassine/2764
-#EXTINF:-1,Arryadia Live HD
-http://rb-group-server.com:25461/yassine/yassine/2790
-#EXTINF:-1,GM Movies HD
-http://rb-group-server.com:25461/yassine/yassine/8620
-#EXTINF:-1,GM Alwan
-http://rb-group-server.com:25461/yassine/yassine/8611
-#EXTINF:-1,GM Comedia TV
-http://rb-group-server.com:25461/yassine/yassine/8597
-#EXTINF:-1,GM Muzicana
-http://rb-group-server.com:25461/yassine/yassine/8606
-#EXTINF:-1,GM Chaabi TV
-http://rb-group-server.com:25461/yassine/yassine/8601
-#EXTINF:-1,GM Music TV
-http://rb-group-server.com:25461/yassine/yassine/8602
-#EXTINF:-1,GM OFIVE
-http://rb-group-server.com:25461/yassine/yassine/9254
-#EXTINF:-1,GM Bizim TV
-http://rb-group-server.com:25461/yassine/yassine/8617
+
 #EXTINF:-1,--------NEWS--------
 http://rb-group-server.com:25461/yassine/yassine/3015
 #EXTINF:-1,Al Jazeera
