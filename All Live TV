@@ -1,154 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1,beIN Sports News
-http://207.154.212.82:8080/live/beindulex/beindulex/741.ts
-#EXTINF:-1,beIN Sports HD
-http://207.154.212.82:8080/live/beindulex/beindulex/742.ts
-#EXTINF:-1,beIN Sports 9_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/751.ts
-#EXTINF:-1,beIN Sports 8_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/750.ts
-#EXTINF:-1,beIN Sports 8 SD
-http://207.154.212.82:8080/live/beindulex/beindulex/760.ts
-#EXTINF:-1,beIN Sports 8 LOW
-http://207.154.212.82:8080/live/beindulex/beindulex/768.ts
-#EXTINF:-1,beIN Sports 7_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/749.ts
-#EXTINF:-1,beIN Sports 7 SD
-http://207.154.212.82:8080/live/beindulex/beindulex/759.ts
-#EXTINF:-1,beIN Sports 7 LOW
-http://207.154.212.82:8080/live/beindulex/beindulex/767.ts
-#EXTINF:-1,beIN Sports 6_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/748.ts
-#EXTINF:-1,beIN Sports 6 SD
-http://207.154.212.82:8080/live/beindulex/beindulex/758.ts
-#EXTINF:-1,beIN Sports 6 LOW
-http://207.154.212.82:8080/live/beindulex/beindulex/766.ts
-#EXTINF:-1,beIN Sports 5_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/747.ts
-#EXTINF:-1,beIN Sports 5 SD
-http://207.154.212.82:8080/live/beindulex/beindulex/757.ts
-#EXTINF:-1,beIN Sports 5 LOW
-http://207.154.212.82:8080/live/beindulex/beindulex/765.ts
-#EXTINF:-1,beIN Sports 4_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/746.ts
-#EXTINF:-1,beIN Sports 4 SD
-http://207.154.212.82:8080/live/beindulex/beindulex/756.ts
-#EXTINF:-1,beIN Sports 4 LOW
-http://207.154.212.82:8080/live/beindulex/beindulex/764.ts
-#EXTINF:-1,beIN Sports 3_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/745.ts
-#EXTINF:-1,beIN Sports 3 SD
-http://207.154.212.82:8080/live/beindulex/beindulex/755.ts
-#EXTINF:-1,beIN Sports 3 LOW
-http://207.154.212.82:8080/live/beindulex/beindulex/763.ts
-#EXTINF:-1,beIN Sports 2_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/744.ts
-#EXTINF:-1,beIN Sports 2 SD
-http://207.154.212.82:8080/live/beindulex/beindulex/754.ts
-#EXTINF:-1,beIN Sports 2 LOW
-http://207.154.212.82:8080/live/beindulex/beindulex/762.ts
-#EXTINF:-1,beIN Sports 1_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/743.ts
-#EXTINF:-1,beIN Sports 10_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/752.ts
-#EXTINF:-1,beIN Sports 1 SD
-http://207.154.212.82:8080/live/beindulex/beindulex/753.ts
-#EXTINF:-1,beIN Sports 1 LOW
-http://207.154.212.82:8080/live/beindulex/beindulex/761.ts
-
-#EXTINF:-1,AR: Beuot Q Sport 1 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/171.ts
-#EXTINF:-1,AR: Beuot Q Sport 2 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/174.ts
-#EXTINF:-1,AR: Beuot Q Sport 3 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/2482.ts
-#EXTINF:-1,AR: Beuot Q Sport 4 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/2483.ts
-#EXTINF:-1,AR: Beuot Q Sport 5 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/2484.ts
-#EXTINF:-1,AR: Bein Sport 1 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/169.ts
-#EXTINF:-1,AR: Bein Sport 2 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/168.ts
-#EXTINF:-1,AR: Bein Sport 3 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/167.ts
-#EXTINF:-1,AR: Bein Sport 4 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/166.ts
-#EXTINF:-1,AR: Bein Sport 5 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/165.ts
-#EXTINF:-1,AR: Bein Sport 6 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/164.ts
-#EXTINF:-1,AR: Bein Sport 7 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/163.ts
-#EXTINF:-1,AR: Bein Sport 8 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/162.ts
-#EXTINF:-1,AR: Bein Sport 9 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/161.ts
-#EXTINF:-1,AR: Bein Sport 10 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/160.ts
-#EXTINF:-1,AR: Bein Sport 11 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/159.ts
-#EXTINF:-1,AR: Bein Sport 12 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/170.ts
-#EXTINF:-1,AR: Bein Sport 1 SD
-http://ipsatpro.biz:8080/live/11021102/11021102/2456.ts
-#EXTINF:-1,AR: Bein Sport 2 SD
-http://ipsatpro.biz:8080/live/11021102/11021102/2457.ts
-#EXTINF:-1,AR: Bein Sport 3 SD
-http://ipsatpro.biz:8080/live/11021102/11021102/2458.ts
-#EXTINF:-1,AR: Bein Sport 4 SD
-http://ipsatpro.biz:8080/live/11021102/11021102/2459.ts
-#EXTINF:-1,AR: Bein Sport 5 SD
-http://ipsatpro.biz:8080/live/11021102/11021102/2460.ts
-#EXTINF:-1,AR: Bein Sport 6 SD
-http://ipsatpro.biz:8080/live/11021102/11021102/2461.ts
-#EXTINF:-1,AR: Bein Sport 7 SD
-http://ipsatpro.biz:8080/live/11021102/11021102/2462.ts
-#EXTINF:-1,AR: Bein Sport 8 SD
-http://ipsatpro.biz:8080/live/11021102/11021102/2463.ts
-#EXTINF:-1,AR: Bein Sport 9 SD
-http://ipsatpro.biz:8080/live/11021102/11021102/2464.ts
-#EXTINF:-1,AR: Bein Sport 10 SD
-http://ipsatpro.biz:8080/live/11021102/11021102/2465.ts
-#EXTINF:-1,AR: Bein Sport 11 SD
-http://ipsatpro.biz:8080/live/11021102/11021102/2466.ts
-#EXTINF:-1,AR: Bein Sport 12 SD
-http://ipsatpro.biz:8080/live/11021102/11021102/2467.ts
-#EXTINF:-1,AR: Bein Sport 1 Low
-http://ipsatpro.biz:8080/live/11021102/11021102/2472.ts
-#EXTINF:-1,AR: Bein Sport 2 Low
-http://ipsatpro.biz:8080/live/11021102/11021102/2473.ts
-#EXTINF:-1,AR: Bein Sport 3 Low
-http://ipsatpro.biz:8080/live/11021102/11021102/2481.ts
-#EXTINF:-1,AR: Bein Sport 4 Low
-http://ipsatpro.biz:8080/live/11021102/11021102/2474.ts
-#EXTINF:-1,AR: Bein Sport 5 Low
-http://ipsatpro.biz:8080/live/11021102/11021102/2475.ts
-#EXTINF:-1,AR: Bein Sport 6 Low
-http://ipsatpro.biz:8080/live/11021102/11021102/2476.ts
-#EXTINF:-1,AR: Bein Sport 7 Low
-http://ipsatpro.biz:8080/live/11021102/11021102/2477.ts
-#EXTINF:-1,AR: Bein Sport 8 Low
-http://ipsatpro.biz:8080/live/11021102/11021102/2478.ts
-#EXTINF:-1,AR: Bein Sport 9 Low
-http://ipsatpro.biz:8080/live/11021102/11021102/2479.ts
-#EXTINF:-1,AR: Bein Sport 10 Low
-http://ipsatpro.biz:8080/live/11021102/11021102/2480.ts
-#EXTINF:-1,AR: Bein Sport News HD
-http://ipsatpro.biz:8080/live/11021102/11021102/172.ts
-#EXTINF:-1,AR: Bein Sport Q
-http://ipsatpro.biz:8080/live/11021102/11021102/173.ts
-#EXTINF:-1,AR: Bein Movies 1
-http://ipsatpro.biz:8080/live/11021102/11021102/175.ts
-#EXTINF:-1,AR: Bein Movies 2
-http://ipsatpro.biz:8080/live/11021102/11021102/176.ts
-#EXTINF:-1,AR: Bein Movies 3
-http://ipsatpro.biz:8080/live/11021102/11021102/177.ts
-#EXTINF:-1,AR: Bein Movies 4
-http://ipsatpro.biz:8080/live/11021102/11021102/178.ts
-
 #EXTINF:-1,|AR|_MBC_2
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/65.ts
 #EXTINF:-1,|AR|_MBC_4
@@ -289,6 +140,63 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/37.ts
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/43.ts
 #EXTINF:-1,|AR|_Qatar_TV_HD
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/27.ts
+
+#EXTINF:-1,beIN Sports News
+http://207.154.212.82:8080/live/beindulex/beindulex/741.ts
+#EXTINF:-1,beIN Sports HD
+http://207.154.212.82:8080/live/beindulex/beindulex/742.ts
+#EXTINF:-1,beIN Sports 9_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/751.ts
+#EXTINF:-1,beIN Sports 8_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/750.ts
+#EXTINF:-1,beIN Sports 8 SD
+http://207.154.212.82:8080/live/beindulex/beindulex/760.ts
+#EXTINF:-1,beIN Sports 8 LOW
+http://207.154.212.82:8080/live/beindulex/beindulex/768.ts
+#EXTINF:-1,beIN Sports 7_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/749.ts
+#EXTINF:-1,beIN Sports 7 SD
+http://207.154.212.82:8080/live/beindulex/beindulex/759.ts
+#EXTINF:-1,beIN Sports 7 LOW
+http://207.154.212.82:8080/live/beindulex/beindulex/767.ts
+#EXTINF:-1,beIN Sports 6_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/748.ts
+#EXTINF:-1,beIN Sports 6 SD
+http://207.154.212.82:8080/live/beindulex/beindulex/758.ts
+#EXTINF:-1,beIN Sports 6 LOW
+http://207.154.212.82:8080/live/beindulex/beindulex/766.ts
+#EXTINF:-1,beIN Sports 5_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/747.ts
+#EXTINF:-1,beIN Sports 5 SD
+http://207.154.212.82:8080/live/beindulex/beindulex/757.ts
+#EXTINF:-1,beIN Sports 5 LOW
+http://207.154.212.82:8080/live/beindulex/beindulex/765.ts
+#EXTINF:-1,beIN Sports 4_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/746.ts
+#EXTINF:-1,beIN Sports 4 SD
+http://207.154.212.82:8080/live/beindulex/beindulex/756.ts
+#EXTINF:-1,beIN Sports 4 LOW
+http://207.154.212.82:8080/live/beindulex/beindulex/764.ts
+#EXTINF:-1,beIN Sports 3_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/745.ts
+#EXTINF:-1,beIN Sports 3 SD
+http://207.154.212.82:8080/live/beindulex/beindulex/755.ts
+#EXTINF:-1,beIN Sports 3 LOW
+http://207.154.212.82:8080/live/beindulex/beindulex/763.ts
+#EXTINF:-1,beIN Sports 2_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/744.ts
+#EXTINF:-1,beIN Sports 2 SD
+http://207.154.212.82:8080/live/beindulex/beindulex/754.ts
+#EXTINF:-1,beIN Sports 2 LOW
+http://207.154.212.82:8080/live/beindulex/beindulex/762.ts
+#EXTINF:-1,beIN Sports 1_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/743.ts
+#EXTINF:-1,beIN Sports 10_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/752.ts
+#EXTINF:-1,beIN Sports 1 SD
+http://207.154.212.82:8080/live/beindulex/beindulex/753.ts
+#EXTINF:-1,beIN Sports 1 LOW
+http://207.154.212.82:8080/live/beindulex/beindulex/761.ts
 
 #EXTINF:-1,Bein1 1M
 http://2111.space:25461/admin_182223/wGBfWji1/1286
