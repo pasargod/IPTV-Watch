@@ -1,39 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1,|AR|_MBC_1
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/61.ts
 #EXTINF:-1,|AR|_MBC_2
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/65.ts
 #EXTINF:-1,|AR|_MBC_4
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/62.ts
-#EXTINF:-1,|AR|_MBC_1
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/61.ts
 #EXTINF:-1,|AR|_DUBAI_ONE_HD
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/15.ts
 #EXTINF:-1,|AR|_ABUDHABI_Emirat
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/70.ts
-#EXTINF:-1,|AR|_2M_MAROC 
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/44.ts
-#EXTINF:-1,|AR|_medi1afrique
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/95.ts
 #EXTINF:-1,|AR|_AD_Drama
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/69.ts
-#EXTINF:-1,|AR|_Al_Jazeera_Documentaire
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/46.ts
-#EXTINF:-1,|AR|_Al_Arabiya
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/38.ts
-#EXTINF:-1,|AR|_Al_Hadath
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/40.ts
-#EXTINF:-1,|AR|_MTV_lebenon
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.ts
 #EXTINF:-1,|AR|_ABU_DHABI_TV
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.ts
 #EXTINF:-1,|AR|_SAMA_DUBAI_HD
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/12.ts
 #EXTINF:-1,|AR|_NOUR_DUBAI
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/16.ts
-#EXTINF:-1,|AR|_FUTURE_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/17.ts
-#EXTINF:-1,|AR|_DW_AR
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/22.ts
 #EXTINF:-1,|AR|_DUBAI_ZAMAN
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/11.ts
 #EXTINF:-1,|AR|_DUBAI_TV_HD
@@ -68,13 +52,19 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/91.ts
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/60.ts
 #EXTINF:-1,|AR|_Aouala
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/55.ts
+#EXTINF:-1,|AR|_2M_MAROC 
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/44.ts
+#EXTINF:-1,|AR|_medi1afrique
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/95.ts
+#EXTINF:-1,|AR|_DW_AR
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/22.ts
 #EXTINF:-1,|AR|_FRANCE_24_AR
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/20.ts
 #EXTINF:-1,|AR|_Sky_News_Arabic
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/45.ts
 #EXTINF:-1,|AR|_BBC_Arabic
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/28.ts
-#EXTINF:-1,www.iptv4sat.com |AR|_ALAAN_TV
+#EXTINF:-1,|AR|_ALAAN_TV
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/19.ts
 #EXTINF:-1,|AR|_RUSSIA ALYAOUM_TV
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/88.ts
@@ -82,8 +72,16 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/88.ts
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/67.ts
 #EXTINF:-1,|AR|_Alalam_news
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/97.ts
+#EXTINF:-1,|AR|_ALMAYADEEN_TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/87.ts
 #EXTINF:-1,|AR|_SAUDI_ALIKHBARIYA_HD
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/3.ts
+#EXTINF:-1,|AR|_Al_Jazeera_Documentaire
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/46.ts
+#EXTINF:-1,|AR|_Al_Arabiya
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/38.ts
+#EXTINF:-1,|AR|_Al_Hadath
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/40.ts
 #EXTINF:-1,|AR|_Space_Toon
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/75.ts
 #EXTINF:-1,|AR|_CBC_Drama
@@ -92,10 +90,6 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/42.ts
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/72.ts
 #EXTINF:-1,|AR|_Palestine
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/101.ts
-#EXTINF:-1,|AR|_ALMAYADEEN_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/87.ts
-#EXTINF:-1,|AR|_TRT_Arabiya
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/73.ts
 #EXTINF:-1,|AR|_Nahar_TV_Egypt
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/71.ts
 #EXTINF:-1,|AR|_Jordon_TV
@@ -106,6 +100,10 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/98.ts
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/54.ts
 #EXTINF:-1,|AR|_ALRAI_TV
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/50.ts
+#EXTINF:-1,|AR|_MTV_lebenon
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.ts
+#EXTINF:-1,|AR|_FUTURE_TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/17.ts
 #EXTINF:-1,|AR|_Syrian_Drama
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/29.ts
 #EXTINF:-1,|AR|_SAMA_SYRIA
@@ -121,24 +119,24 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/27.ts
 http://207.154.212.82:8080/live/beindulex/beindulex/741.ts
 #EXTINF:-1,beIN Sports HD
 http://207.154.212.82:8080/live/beindulex/beindulex/742.ts
-#EXTINF:-1,beIN Sports 9_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/751.ts
-#EXTINF:-1,beIN Sports 8_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/750.ts
-#EXTINF:-1,beIN Sports 7_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/749.ts
-#EXTINF:-1,beIN Sports 6_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/748.ts
-#EXTINF:-1,beIN Sports 5_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/747.ts
-#EXTINF:-1,beIN Sports 4_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/746.ts
-#EXTINF:-1,beIN Sports 3_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/745.ts
-#EXTINF:-1,beIN Sports 2_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/744.ts
 #EXTINF:-1,beIN Sports 1_HD
 http://207.154.212.82:8080/live/beindulex/beindulex/743.ts
+#EXTINF:-1,beIN Sports 2_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/744.ts
+#EXTINF:-1,beIN Sports 3_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/745.ts
+#EXTINF:-1,beIN Sports 4_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/746.ts
+#EXTINF:-1,beIN Sports 5_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/747.ts
+#EXTINF:-1,beIN Sports 6_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/748.ts
+#EXTINF:-1,beIN Sports 7_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/749.ts
+#EXTINF:-1,beIN Sports 8_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/750.ts
+#EXTINF:-1,beIN Sports 9_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/751.ts
 #EXTINF:-1,beIN Sports 10_HD
 http://207.154.212.82:8080/live/beindulex/beindulex/752.ts
 
